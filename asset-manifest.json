@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-log-app/static/css/main.661f4e71.chunk.css",
+    "main.js": "/simple-log-app/static/js/main.105f9788.chunk.js",
+    "main.js.map": "/simple-log-app/static/js/main.105f9788.chunk.js.map",
+    "runtime-main.js": "/simple-log-app/static/js/runtime-main.1ebf950a.js",
+    "runtime-main.js.map": "/simple-log-app/static/js/runtime-main.1ebf950a.js.map",
+    "static/js/2.4720b8e9.chunk.js": "/simple-log-app/static/js/2.4720b8e9.chunk.js",
+    "static/js/2.4720b8e9.chunk.js.map": "/simple-log-app/static/js/2.4720b8e9.chunk.js.map",
+    "static/js/3.bdec5c4a.chunk.js": "/simple-log-app/static/js/3.bdec5c4a.chunk.js",
+    "static/js/3.bdec5c4a.chunk.js.map": "/simple-log-app/static/js/3.bdec5c4a.chunk.js.map",
+    "index.html": "/simple-log-app/index.html",
+    "static/css/main.661f4e71.chunk.css.map": "/simple-log-app/static/css/main.661f4e71.chunk.css.map",
+    "static/js/2.4720b8e9.chunk.js.LICENSE.txt": "/simple-log-app/static/js/2.4720b8e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ebf950a.js",
+    "static/js/2.4720b8e9.chunk.js",
+    "static/css/main.661f4e71.chunk.css",
+    "static/js/main.105f9788.chunk.js"
+  ]
+}
